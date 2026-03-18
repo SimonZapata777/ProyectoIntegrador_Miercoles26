@@ -28,4 +28,4 @@ El objetivo es ayudar a las personas a identificar patrones de consumo pequeños
 
 ## 🧱 Arquitectura
 
-ProyectoIntegrador 2026 Analisis de datos 
+Proyecto Integrador 2026 Analisis de datos 
